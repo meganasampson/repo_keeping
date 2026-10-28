@@ -2,7 +2,7 @@
 name: Misc Template
 about: Testing more templates
 title: "[MISC]"
-labels: ''
+labels: 'misc'
 assignees: ''
 
 ---

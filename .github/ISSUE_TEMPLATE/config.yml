@@ -1,0 +1,17 @@
+blank_issues_enabled: false
+issue_templates:
+  - name: "Bug report"
+    description: "Create a report to help us improve"
+    title: "[BUG]: "
+    labels: ["bug"]
+    body: "./ISSUE_TEMPLATE/bug_report.md"
+  - name: new Template
+    about: Testing more templates again
+    title: "[NEW]"
+    labels: 'new'
+    body: "./ISSUE_TEMPLATE/new_template.md"
+  - name: Misc Template
+    about: Testing more templates
+    title: "[MISC]"
+    labels: 'misc'
+    body: "./ISSUES_TEMPLATE/misc_template.md"
